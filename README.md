@@ -6,8 +6,6 @@
 - Python 3
 - Tkinter
 - MySQL
-- PyMySQL
-- ReportLab
 
 ## Структура проекта
 - `main.py` — точка входа
@@ -17,8 +15,3 @@
 - `dashboard.py` — главное меню
 - `products.py` — управление товарами
 - `billing.py` — модуль продаж и чеков
-
-## Как запустить
-1. Создать базу данных `shop_billing`
-2. `pip install -r requirements.txt`
-3. `python main.py`
